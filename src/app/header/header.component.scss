@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #526DFE;
+}
+
+.navbar a{
+    color: white;
+}
+
+.navbar-nav{
+    // background-color:aqua;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-item .nav-link{
+
+    font-size: 17px;
+    display: flex;
+    gap: 6px;
+
+}

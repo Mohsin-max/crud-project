@@ -1,0 +1,20 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000d5a;
+}
+
+.user-message{
+
+    background-color:#00d773;
+    width: fit-content;
+    padding: 8px 13px;
+    font-size: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    
+}
